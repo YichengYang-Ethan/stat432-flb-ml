@@ -1,0 +1,44 @@
+# Data (do not commit large / redistributed data)
+data/raw/
+data/processed/
+data/**/*.csv
+data/**/*.rds
+data/**/*.parquet
+!data/README.md
+!data/.gitkeep
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+.Rproj.user
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Results / build artifacts (keep key figures via explicit !)
+results/**/*.rds
+results/**/*.pkl
+results/cache/
+report/*.log
+report/*.aux
+report/*.out
+report/*.toc
+report/*_files/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+Thumbs.db
