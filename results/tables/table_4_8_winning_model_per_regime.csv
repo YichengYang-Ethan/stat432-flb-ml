@@ -1,0 +1,5 @@
+Regime,best_brier_model,best_brier_value,best_logloss_model,best_logloss_value,naive_brier,naive_logloss,brier_improves_naive,logloss_improves_naive
+1,XGBoost,0.6316,XGBoost,1.049,0.6329,1.05,TRUE,TRUE
+2,Elastic Net,0.3762,Elastic Net,0.683,0.3777,0.686,TRUE,TRUE
+3,Shin (1993),0.6494,Shin (1993),1.073,0.6495,1.074,TRUE,TRUE
+4,Shin (1993),0.5504,Shin (1993),0.9332,0.5511,0.9344,TRUE,TRUE

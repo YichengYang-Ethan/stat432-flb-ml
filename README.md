@@ -45,7 +45,7 @@ model), but the edge vanishes in 2022/23 and 2023/24.
 
 ### FLB is real in the pooled sample
 
-![Pooled reliability diagram](results/figure_2_3_reliability_pooled.png)
+![Pooled reliability diagram](results/figures/figure_2_3_reliability_pooled.png)
 
 *For each bin of implied probability (x), we plot the fraction of matches that
 actually happened (y). Perfect bookmaking would sit on the dashed 45° line.
@@ -54,7 +54,7 @@ the textbook FLB pattern. A weighted regression gives slope 1.079.*
 
 ### ML only beats the bookmaker in the Wild West
 
-![Per-regime Brier](results/figure_4_4_per_regime_brier.png)
+![Per-regime Brier](results/figures/figure_4_4_per_regime_brier.png)
 
 *Brier score per regime (lower is better). The dashed segment in each regime
 is the naive-baseline Brier. The green XGBoost bar dips under that line only
@@ -63,7 +63,7 @@ easy to forecast — but no ML model helps there either.*
 
 ### Nothing actually makes money at Pinnacle closing
 
-![Cumulative P&L](results/figure_5_1_cumulative_pnl.png)
+![Cumulative P&L](results/figures/figure_5_1_cumulative_pnl.png)
 
 *Cumulative profit in units of stake, one panel per model, 1-unit flat
 stakes, 2021/22 – 2023/24. Every strategy trends downward. The green line

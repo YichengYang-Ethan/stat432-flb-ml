@@ -1,0 +1,5 @@
+cluster,regime_name_placeholder,n_train,n_test,mean_p_fav,mean_overround,mean_disagree,slope,slope_lo,slope_hi,dominant_div_top3
+1,Regime 1,6190,1800,0.448,1.06,0.0462,1.15,1.08,1.22,"SP2(16%), F2(13%), I2(12%)"
+2,Regime 2,2620,766,0.748,1.05,0.026,1.07,1.04,1.1,"E0(23%), SP1(19%), I1(19%)"
+3,Regime 3,15500,5110,0.416,1.06,0.0204,1.08,0.994,1.17,"E1(16%), E2(14%), F2(9%)"
+4,Regime 4,7890,2620,0.573,1.05,0.0253,1.07,1.04,1.1,"E0(12%), E1(12%), I1(12%)"

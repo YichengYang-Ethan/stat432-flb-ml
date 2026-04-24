@@ -1,0 +1,13 @@
+Strategy,Model,N,ROI,Sharpe,MaxDD_pct
+Unconditional,Elastic Net,8410,-0.06526,-2.335,3403
+Unconditional,Shin (1993),7833,-0.05053,-1.86,20570
+Unconditional,XGBoost,9219,-0.05904,-2.012,2216
+A: Regime 1,Elastic Net,1710,-0.08751,-3.186,1009
+A: Regime 1,Shin (1993),1707,-0.0747,-2.707,2584
+A: Regime 1,XGBoost,1681,-0.06284,-2.292,1948
+B: Regime 1+2,Elastic Net,2246,-0.03103,-0.9602,1145
+B: Regime 1+2,Shin (1993),2193,-0.03838,-1.214,1929
+B: Regime 1+2,XGBoost,2374,-0.04973,-1.405,2163
+C: Regime 3+4 (ctl),Elastic Net,6164,-0.07773,-2.971,2192
+C: Regime 3+4 (ctl),Shin (1993),5640,-0.05526,-2.189,31730
+C: Regime 3+4 (ctl),XGBoost,6845,-0.06226,-2.313,1450

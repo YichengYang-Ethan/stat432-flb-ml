@@ -1,0 +1,39 @@
+feature,group,description
+p_fav,Market,Max of home / away de-vigged prob
+p_long,Market,Min of home / away de-vigged prob
+q_draw,Market,Draw de-vigged prob
+entropy,Market,"Shannon entropy of (qH, qD, qA)"
+log_ratio,Market,log(p_fav / p_long)
+home_skew,Market,log(qH / qA)
+overround,Market,Mean overround across six books
+disagree_H,Market,SD of qH across six books
+disagree_A,Market,SD of qA across six books
+home_gf_5,TeamForm,Rolling home-team goals for  (last 5)
+home_ga_5,TeamForm,Rolling home-team goals against (last 5)
+home_gd_5,TeamForm,Rolling home-team goal diff    (last 5)
+home_win_rate_5,TeamForm,Rolling home-team win rate     (last 5)
+home_draw_rate_5,TeamForm,Rolling home-team draw rate    (last 5)
+home_ppg_5,TeamForm,Rolling home-team points/game  (last 5)
+home_sot_5,TeamForm,Rolling home-team shots-on-target avg (last 5)
+home_gf_10,TeamForm,Rolling home-team goals for  (last 10)
+home_ga_10,TeamForm,Rolling home-team goals against (last 10)
+home_gd_10,TeamForm,Rolling home-team goal diff    (last 10)
+home_win_rate_10,TeamForm,Rolling home-team win rate     (last 10)
+home_draw_rate_10,TeamForm,Rolling home-team draw rate    (last 10)
+home_ppg_10,TeamForm,Rolling home-team points/game  (last 10)
+home_sot_10,TeamForm,Rolling home-team shots-on-target avg (last 10)
+away_gf_5,TeamForm,Rolling away-team goals for   (last 5)
+away_ga_5,TeamForm,Rolling away-team goals against(last 5)
+away_gd_5,TeamForm,Rolling away-team goal diff    (last 5)
+away_win_rate_5,TeamForm,Rolling away-team win rate     (last 5)
+away_draw_rate_5,TeamForm,Rolling away-team draw rate    (last 5)
+away_ppg_5,TeamForm,Rolling away-team points/game  (last 5)
+away_sot_5,TeamForm,Rolling away-team shots-on-target avg (last 5)
+away_gf_10,TeamForm,Rolling away-team goals for   (last 10)
+away_ga_10,TeamForm,Rolling away-team goals against(last 10)
+away_gd_10,TeamForm,Rolling away-team goal diff    (last 10)
+away_win_rate_10,TeamForm,Rolling away-team win rate     (last 10)
+away_draw_rate_10,TeamForm,Rolling away-team draw rate    (last 10)
+away_ppg_10,TeamForm,Rolling away-team points/game  (last 10)
+away_sot_10,TeamForm,Rolling away-team shots-on-target avg (last 10)
+Regime,Regime,Unsupervised K-Means cluster from Section 3 (1-4)

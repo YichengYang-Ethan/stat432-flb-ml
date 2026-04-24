@@ -1,0 +1,5 @@
+regime_id,suggested_name,key_features_blurb,slope,mean_overround
+1,Soft longshot market,disagree_A + 75%; disagree_H + 69%; home_skew - 36%,1.15,1.06
+2,Balanced,home_skew + 303%; log_ratio + 197%; p_long - 64%,1.07,1.05
+3,Balanced,home_skew - 65%; log_ratio - 52%; disagree_H - 27%,1.08,1.06
+4,Balanced,log_ratio + 60%; home_skew + 58%; p_long - 26%,1.07,1.05

@@ -1,0 +1,12 @@
+Div,Country,n_matches,H%,D%,A%,n_train,n_test
+E1,England (Championship),5260,42.9,26.9,30.2,3856,1404
+E2,England (League One),5066,43.1,26.0,30.9,3683,1383
+E0,England (Premier League),3994,45.2,23.0,31.8,3038,956
+SP1,Spain (La Liga),3973,45.8,25.7,28.5,3033,940
+I1,Italy (Serie A),3960,43.4,25.2,31.4,3031,929
+F1,France (Ligue 1),3829,44.1,26.1,29.8,2929,900
+SP2,Spain (Segunda Division),3678,44.7,31.3,23.9,3056,622
+F2,France (Ligue 2),3410,41.7,29.6,28.7,2543,867
+I2,Italy (Serie B),3298,42.2,32.4,25.4,2500,798
+D1,Germany (Bundesliga),3187,45.7,24.3,30.1,2441,746
+D2,Germany (2. Bundesliga),2881,42.7,28.0,29.3,2125,756

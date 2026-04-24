@@ -1,0 +1,4 @@
+Strategy,Model,N,Avg_odds,Win_rate,Total_profit,ROI,Sharpe,MaxDD_abs,MaxDD_pct
+Unconditional,Shin (1993),7833,3.682,0.3224,-395.8,-0.05053,-1.86,405.3,20570
+Unconditional,Elastic Net,8410,3.816,0.3023,-548.8,-0.06526,-2.335,586.7,3403
+Unconditional,XGBoost,9219,4.214,0.2881,-544.3,-0.05904,-2.012,576.3,2216

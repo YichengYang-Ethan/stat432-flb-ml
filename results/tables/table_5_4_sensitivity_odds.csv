@@ -1,0 +1,10 @@
+Model,Odds,N,Total_profit,ROI
+Shin (1993),Pinnacle closing,1707,-127.5,-0.0747
+Shin (1993),Max of 6 books,1723,-129,-0.07488
+Shin (1993),Mean of 6 books,3,2.008,0.6694
+Elastic Net,Pinnacle closing,1710,-149.6,-0.08751
+Elastic Net,Max of 6 books,1724,-123.3,-0.07152
+Elastic Net,Mean of 6 books,229,-9.453,-0.04128
+XGBoost,Pinnacle closing,1681,-105.6,-0.06284
+XGBoost,Max of 6 books,1724,8.34,0.004838
+XGBoost,Mean of 6 books,1032,3.063,0.002968
